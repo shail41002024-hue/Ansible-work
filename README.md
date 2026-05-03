@@ -1,2 +1,2 @@
 # Ansible-work
-This reporitory is created for ansible playbooks
+This repository is created for ansible playbooks
